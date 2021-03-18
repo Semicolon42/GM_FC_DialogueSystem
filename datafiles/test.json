@@ -1,0 +1,24 @@
+{
+    "dialogue":  {
+        "AAA": [
+            {
+                "myText": {
+                    "en": "Hello World"
+                },
+                "mySpeaker": "obj_player"
+            },
+            {
+                "myText": {
+                    "en": "Cruel, cruel world"
+                },
+                "mySpeaker": "obj_player"
+            },
+            {
+                "myText": {
+                    "en": "forsooth, and what a world it is"
+                },
+                "mySpeaker": "obj_player"
+            }
+        ]
+    }
+}
